@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Sagar S R</h1>
-<h3 align="center">A passionate Student from India</h3>
 
 - 📫 How to reach me **sagarsr2006@gmail.com**
 
