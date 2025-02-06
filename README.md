@@ -3,7 +3,7 @@
 - 📫 How to reach me
 - Email : **sagarsr2006@gmail.com**
 - ## Connect with me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/sagar-s-r/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin)]([(https://www.linkedin.com/in/sagar-s-r-a4b9792bb])
 
 
 
