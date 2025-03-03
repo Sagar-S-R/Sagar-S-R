@@ -2,4 +2,4 @@
 
 ![Sagar's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sagar-S-R&hide=contribs,prs)
 
-![](https://komarev.com/ghpvc/?username=Sagar-S-R)
+![](https://komarev.com/ghpvc/?username=Samrudhp)
