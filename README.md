@@ -28,7 +28,7 @@
 </p>
 
 ---
-
+<!--
 ## 🏆 GitHub Trophies  
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Sagar-S-R&theme=matrix&no-bg=true&no-frame=true" />
@@ -39,6 +39,7 @@
 <h3 align="center">Reach Me Out</h3>
 
 <div align="center">  
+-->
 
   <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/sagarsr" target="_blank">
