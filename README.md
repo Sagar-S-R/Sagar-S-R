@@ -8,9 +8,9 @@
 
 <hr/>
 
-<h2 align="left">Technologies</h2>
+<h2 align="left">Technologies and Skills</h2>
 
-<h4 align="left">Languages and Skills</h4>
+<h4 align="left">Languages </h4>
 <p align="left">
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" height="40" style="margin:8px"/>
