@@ -10,7 +10,7 @@
 
 <h2 align="left">Technologies</h2>
 
-<h4 align="left">Languages</h4>
+<h4 align="left">Languages and Skills</h4>
 <p align="left">
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" height="40" style="margin:8px"/>
@@ -59,12 +59,6 @@
   <a href="https://www.nginx.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" width="40" height="40" style="margin:8px"/>
   </a>
-  <a href="https://appwrite.io" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/appwriteio/appwriteio-icon.svg" width="40" height="40" style="margin:8px"/>
-  </a>
-  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="40" height="40" style="margin:8px"/>
-  </a>
 </p>
 
 <h4 align="left">Databases</h4>
@@ -86,7 +80,7 @@
   </a>
 </p>
 
-<h4 align="left">AI, ML and Data</h4>
+<h4 align="left">AI, ML</h4>
 <p align="left">
   <a href="https://opencv.org/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" width="40" height="40" style="margin:8px"/>
